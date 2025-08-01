@@ -1,0 +1,3958 @@
+[
+  {
+    "nombre": "Incineroar",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 170,
+      "ataque": 135,
+      "defensa": 121,
+      "velocidad": 80,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Knock Off"
+        },
+        {
+          "nombre": "Parting Shot"
+        },
+        {
+          "nombre": "Will-O-Wisp"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Intimidate"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Rocky Helmet"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego",
+      "Siniestro"
+    ]
+  },
+  {
+    "nombre": "Urshifu-Rapid-Strike",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 165,
+      "defensa": 120,
+      "velocidad": 117,
+      "ataqueEspecial": 74,
+      "defensaEspecial": 80
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Surging Strikes"
+        },
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Aqua Jet"
+        },
+        {
+          "nombre": "U-turn"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Unseen Fist"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Choice Scarf"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Miraidon",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 94,
+      "defensa": 120,
+      "velocidad": 170,
+      "ataqueEspecial": 155,
+      "defensaEspecial": 135
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Electro Drift"
+        },
+        {
+          "nombre": "Volt Switch"
+        },
+        {
+          "nombre": "Draco Meteor "
+        },
+        {
+          "nombre": "Dazzling Gleam"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Hadron Engine"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Specs"
+        }
+      ]
+    },
+    "tipos": [
+      "Electrico",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Farigiraf",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 195,
+      "ataque": 99,
+      "defensa": 99,
+      "velocidad": 80,
+      "ataqueEspecial": 130,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Trick Room "
+        },
+        {
+          "nombre": "Helping Hand"
+        },
+        {
+          "nombre": "Foul Play"
+        },
+        {
+          "nombre": "Psychic"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Armor Tail"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Electric Seed"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  {
+    "nombre": "Grimmsnarl",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 170,
+      "ataque": 140,
+      "defensa": 85,
+      "velocidad": 80,
+      "ataqueEspecial": 103,
+      "defensaEspecial": 104
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Light Screen"
+        },
+        {
+          "nombre": "Reflect"
+        },
+        {
+          "nombre": "Spirit Break"
+        },
+        {
+          "nombre": "Foul Play"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Light Clay"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Ting-Lu",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 230,
+      "ataque": 143,
+      "defensa": 145,
+      "velocidad": 58,
+      "ataqueEspecial": 75,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Ruination"
+        },
+        {
+          "nombre": "Stomping Tantrum"
+        },
+        {
+          "nombre": "Sand Tomb"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Vessel of Ruin"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Tierra"
+    ]
+  },
+  {
+    "nombre": "Weezing-Galar",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 140,
+      "ataque": 99,
+      "defensa": 154,
+      "velocidad": 80,
+      "ataqueEspecial": 105,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Strange Steam"
+        },
+        {
+          "nombre": "Poison Gas"
+        },
+        {
+          "nombre": "Taunt"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Neutralizing Gas"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Veneno",
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Clefairy",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 145,
+      "ataque": 65,
+      "defensa": 74,
+      "velocidad": 49,
+      "ataqueEspecial": 80,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Helping Hand"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Life Dew"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Friend Guard"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eviolite"
+        }
+      ]
+    },
+    "tipos": [
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Smeargle",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 130,
+      "ataque": 40,
+      "defensa": 55,
+      "velocidad": 104,
+      "ataqueEspecial": 36,
+      "defensaEspecial": 65
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Spore"
+        },
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Decorate"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Moody"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Ditto",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 123,
+      "ataque": 68,
+      "defensa": 68,
+      "velocidad": 61,
+      "ataqueEspecial": 68,
+      "defensaEspecial": 74
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Transform"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Imposter"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Ho-Oh",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 181,
+      "ataque": 165,
+      "defensa": 110,
+      "velocidad": 110,
+      "ataqueEspecial": 117,
+      "defensaEspecial": 174
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Sacred Fire"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Brave Bird"
+        },
+        {
+          "nombre": "Tailwind"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Regenerator"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Clear Amulet"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Urshifu",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 165,
+      "defensa": 120,
+      "velocidad": 117,
+      "ataqueEspecial": 74,
+      "defensaEspecial": 80
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Wicked Blow"
+        },
+        {
+          "nombre": "Sucker Punch"
+        },
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Detect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Unseen Fist"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Siniestro"
+    ]
+  },
+  {
+    "nombre": "Ogerpon-Hearthflame",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 155,
+      "ataque": 154,
+      "defensa": 104,
+      "velocidad": 130,
+      "ataqueEspecial": 72,
+      "defensaEspecial": 116
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Ivy Cudgel"
+        },
+        {
+          "nombre": "Spiky Shield"
+        },
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Wood Hammer"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Mold Breaker"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Hearthflame Mask"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Zacian-Crowned",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 167,
+      "ataque": 187,
+      "defensa": 135,
+      "velocidad": 168,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 135
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Iron Head"
+        },
+        {
+          "nombre": "Play Rough"
+        },
+        {
+          "nombre": "Sacred Sword"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Intrepid Sword"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rusted Sword"
+        }
+      ]
+    },
+    "tipos": [
+      "Hada",
+      "Acero"
+    ]
+  },
+  {
+    "nombre": "Groudon",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 187,
+      "defensa": 160,
+      "velocidad": 110,
+      "ataqueEspecial": 108,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Precipice Blades"
+        },
+        {
+          "nombre": "Heat Crash"
+        },
+        {
+          "nombre": "High Horsepower"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Drought"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra"
+    ]
+  },
+  {
+    "nombre": "Brute Bonnet",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 186,
+      "ataque": 147,
+      "defensa": 130,
+      "velocidad": 75,
+      "ataqueEspecial": 89,
+      "defensaEspecial": 119
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Spore"
+        },
+        {
+          "nombre": "Rage Powder"
+        },
+        {
+          "nombre": "Sucker Punch"
+        },
+        {
+          "nombre": "Seed Bomb"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Siniestro"
+    ]
+  },
+  {
+    "nombre": "Chi-Yu",
+    "estrategia": "Weather & Terrain Setters",
+    "estadistica": {
+      "vida": 130,
+      "ataque": 90,
+      "defensa": 100,
+      "velocidad": 120,
+      "ataqueEspecial": 170,
+      "defensaEspecial": 140
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Heat Wave"
+        },
+        {
+          "nombre": "Dark Pulse"
+        },
+        {
+          "nombre": "Snarl"
+        },
+        {
+          "nombre": "Overheat"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Beads of Ruin"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Choice Scarf"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Landorus",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 164,
+      "ataque": 130,
+      "defensa": 110,
+      "velocidad": 121,
+      "ataqueEspecial": 148,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Sludge Bomb"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Sandsear Storm"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Sheer Force"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Indeedee-F",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 145,
+      "ataque": 67,
+      "defensa": 93,
+      "velocidad": 105,
+      "ataqueEspecial": 115,
+      "defensaEspecial": 125
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Helping Hand"
+        },
+        {
+          "nombre": "Psychic"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Psychic Surge"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rocky Helmet"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Whimsicott",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 135,
+      "ataque": 78,
+      "defensa": 105,
+      "velocidad": 149,
+      "ataqueEspecial": 97,
+      "defensaEspecial": 95
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Moonblast"
+        },
+        {
+          "nombre": "Encore"
+        },
+        {
+          "nombre": "Light Screen"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Ogerpon-Cornerstone",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 94,
+      "defensa": 100,
+      "velocidad": 187,
+      "ataqueEspecial": 185,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Ivy Cudgel"
+        },
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Spiky Shield"
+        },
+        {
+          "nombre": "Power Whip"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Sturdy"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Cornerstone Mask"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Roca"
+    ]
+  },
+  {
+    "nombre": "Volcarona",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 160,
+      "ataque": 72,
+      "defensa": 85,
+      "velocidad": 132,
+      "ataqueEspecial": 155,
+      "defensaEspecial": 125
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fiery Dance"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Rage Powder"
+        },
+        {
+          "nombre": "Quiver Dance"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Flame Body"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rocky Helmet"
+        }
+      ]
+    },
+    "tipos": [
+      "Bicho",
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Koraidon",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 155,
+      "defensa": 135,
+      "velocidad": 170,
+      "ataqueEspecial": 94,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Flare Blitz"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Flame Charge"
+        },
+        {
+          "nombre": "Close Combat"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Orichalcum Pulse"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Tornadus",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 154,
+      "ataque": 121,
+      "defensa": 99,
+      "velocidad": 131,
+      "ataqueEspecial": 145,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Bleakwind Storm"
+        },
+        {
+          "nombre": "Rain Dance"
+        },
+        {
+          "nombre": "Taunt"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Terapagos",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 165,
+      "ataque": 76,
+      "defensa": 105,
+      "velocidad": 80,
+      "ataqueEspecial": 93,
+      "defensaEspecial": 105
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tera Starstorm"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Calm Mind"
+        },
+        {
+          "nombre": "Earth Power"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Tera Shift"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Flutter Mane",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 130,
+      "ataque": 67,
+      "defensa": 75,
+      "velocidad": 170,
+      "ataqueEspecial": 155,
+      "defensaEspecial": 155
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Moonblast"
+        },
+        {
+          "nombre": "Icy Wind"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Shadow Ball"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Fantasma",
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Iron Hands",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 229,
+      "ataque": 176,
+      "defensa": 128,
+      "velocidad": 63,
+      "ataqueEspecial": 70,
+      "defensaEspecial": 88
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Drain Punch"
+        },
+        {
+          "nombre": "Wild Charge"
+        },
+        {
+          "nombre": "Low Kick"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Quark Drive"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Electrico"
+    ]
+  },
+  {
+    "nombre": "Ursaluna",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 205,
+      "ataque": 176,
+      "defensa": 125,
+      "velocidad": 63,
+      "ataqueEspecial": 65,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Facade"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Headlong Rush"
+        },
+        {
+          "nombre": "Earthquake"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Guts"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Flame Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Chien-Pao",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 155,
+      "ataque": 140,
+      "defensa": 100,
+      "velocidad": 170,
+      "ataqueEspecial": 99,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Sucker Punch"
+        },
+        {
+          "nombre": "Icicle Crash"
+        },
+        {
+          "nombre": "Crunch"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Sword of Ruin"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Hielo"
+    ]
+  },
+  {
+    "nombre": "Kyogre",
+    "estrategia": "Weather & Terrain Setters",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 108,
+      "defensa": 110,
+      "velocidad": 121,
+      "ataqueEspecial": 170,
+      "defensaEspecial": 160
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Water Spout"
+        },
+        {
+          "nombre": "Origin Pulse"
+        },
+        {
+          "nombre": "Ice Beam"
+        },
+        {
+          "nombre": "Thunder"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Drizzle"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Mystic Water"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Lunala",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 212,
+      "ataque": 119,
+      "defensa": 109,
+      "velocidad": 117,
+      "ataqueEspecial": 172,
+      "defensaEspecial": 127
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Moongeist Beam"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Moonblast"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Shadow Shield"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Electric Seed"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Amoonguss",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 189,
+      "ataque": 94,
+      "defensa": 90,
+      "velocidad": 50,
+      "ataqueEspecial": 105,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Spore"
+        },
+        {
+          "nombre": "Rage Powder"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Pollen Puf"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Regenerator"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rocky Helmet"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Veneno"
+    ]
+  },
+  {
+    "nombre": "Raging Bolt",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 200,
+      "ataque": 83,
+      "defensa": 111,
+      "velocidad": 95,
+      "ataqueEspecial": 157,
+      "defensaEspecial": 119
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Thunderclap"
+        },
+        {
+          "nombre": "Thunderbolt"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Dragon Pulse"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Electrico",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Zamazenta-Crowned",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 185,
+      "defensa": 187,
+      "velocidad": 70,
+      "ataqueEspecial": 94,
+      "defensaEspecial": 150
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Body Press"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Heavy Slam"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Dauntless Shield"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rusted Shield"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Acero"
+    ]
+  },
+  {
+    "nombre": "Calyrex-Ice",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 203,
+      "defensa": 170,
+      "velocidad": 63,
+      "ataqueEspecial": 105,
+      "defensaEspecial": 150
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Glacial Lance"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "High Horsepower"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "As One (Glastrier)"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Clear Amulet"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Hielo"
+    ]
+  },
+  {
+    "nombre": "Rillaboom",
+    "estrategia": "Weather & Terrain Setters",
+    "estadistica": {
+      "vida": 175,
+      "ataque": 159,
+      "defensa": 110,
+      "velocidad": 105,
+      "ataqueEspecial": 72,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Grassy Glide"
+        },
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "U-turn"
+        },
+        {
+          "nombre": "Wood Hammer"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Grassy Surge"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Planta"
+    ]
+  },
+  {
+    "nombre": "Kingambit",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 100,
+      "ataque": 135,
+      "defensa": 120,
+      "velocidad": 60,
+      "ataqueEspecial": 85,
+      "defensaEspecial": 50
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Sucker Punch"
+        },
+        {
+          "nombre": "Kowtow Cleave"
+        },
+        {
+          "nombre": "Iron Head"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Defiant"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Black Glasses"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Acero"
+    ]
+  },
+  {
+    "nombre": "Oranguru",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 90,
+      "ataque": 60,
+      "defensa": 80,
+      "velocidad": 60,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Instruct"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Foul Play"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Telepathy"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Mental Herb"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal",
+      "Psiquico"
+    ]
+  },
+  {
+    "nombre": "Rhyperior",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 115,
+      "ataque": 140,
+      "defensa": 130,
+      "velocidad": 55,
+      "ataqueEspecial": 55,
+      "defensaEspecial": 40
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Rock Slide"
+        },
+        {
+          "nombre": "High Horsepower"
+        },
+        {
+          "nombre": "Crunch"
+        },
+        {
+          "nombre": "Counter"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Lightning Rod"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Roca"
+    ]
+  },
+  {
+    "nombre": "Landorus-Therian",
+    "estrategia": "Soporte y control de campo",
+    "estadistica": {
+      "vida": 164,
+      "ataque": 165,
+      "defensa": 110,
+      "velocidad": 111,
+      "ataqueEspecial": 125,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "U-turn"
+        },
+        {
+          "nombre": "Rock Slide"
+        },
+        {
+          "nombre": "Stomping Tantrum"
+        },
+        {
+          "nombre": "Tera Blast"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Intimidate"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Band"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Scraggy",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 125,
+      "ataque": 95,
+      "defensa": 90,
+      "velocidad": 68,
+      "ataqueEspecial": 55,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Foul Play"
+        },
+        {
+          "nombre": "Coaching"
+        },
+        {
+          "nombre": "Endeavor"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Intimidate"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eviolite"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Lucha"
+    ]
+  },
+  {
+    "nombre": "Entei",
+    "estrategia": "sweeper (atacante)",
+    "estadistica": {
+      "vida": 190,
+      "ataque": 135,
+      "defensa": 105,
+      "velocidad": 120,
+      "ataqueEspecial": 110,
+      "defensaEspecial": 95
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Extreme Speed"
+        },
+        {
+          "nombre": "Sacred Fire"
+        },
+        {
+          "nombre": "Stone Edge"
+        },
+        {
+          "nombre": "Stomping Tantrum"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Inner Focus"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Archaludon",
+    "estrategia": "Sweeper (atacante)",
+    "estadistica": {
+      "vida": 165,
+      "ataque": 125,
+      "defensa": 150,
+      "velocidad": 105,
+      "ataqueEspecial": 145,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Electro Shot"
+        },
+        {
+          "nombre": "Flash Cannon"
+        },
+        {
+          "nombre": "Body Press"
+        },
+        {
+          "nombre": "Draco Meteor"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Stamina"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Acero",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Tsareena",
+    "estrategia": "Soporte y control de campo",
+    "estadistica": {
+      "vida": 147,
+      "ataque": 140,
+      "defensa": 118,
+      "velocidad": 92,
+      "ataqueEspecial": 70,
+      "defensaEspecial": 118
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Triple Axel"
+        },
+        {
+          "nombre": "Power Whip"
+        },
+        {
+          "nombre": "Helping Hand"
+        },
+        {
+          "nombre": "Taunt"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Queenly Majesty"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Wide Lens"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba"
+    ]
+  },
+  {
+    "nombre": "Thundurus",
+    "estrategia": "Weather & terrain setters",
+    "estadistica": {
+      "vida": 154,
+      "ataque": 135,
+      "defensa": 90,
+      "velocidad": 131,
+      "ataqueEspecial": 145,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Eerie Impulse"
+        },
+        {
+          "nombre": "Thunder Wave"
+        },
+        {
+          "nombre": "Rain Dance"
+        },
+        {
+          "nombre": "Thunderbolt"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Electrico",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Basculegion",
+    "estrategia": "Sweeper (atacante)",
+    "estadistica": {
+      "vida": 195,
+      "ataque": 132,
+      "defensa": 85,
+      "velocidad": 98,
+      "ataqueEspecial": 100,
+      "defensaEspecial": 95
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Last Respects"
+        },
+        {
+          "nombre": "Wave Crash"
+        },
+        {
+          "nombre": "Aqua Jet"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Swift Swim"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Maushold",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 149,
+      "ataque": 95,
+      "defensa": 90,
+      "velocidad": 131,
+      "ataqueEspecial": 85,
+      "defensaEspecial": 95
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Feint"
+        },
+        {
+          "nombre": "Helping Hand"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Friend Guard"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Wide Lens"
+        }
+      ]
+    },
+    "tipos": [
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Torkoal",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 145,
+      "ataque": 105,
+      "defensa": 160,
+      "velocidad": 40,
+      "ataqueEspecial": 105,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Eruption"
+        },
+        {
+          "nombre": "Weather Ball"
+        },
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Heat Wave"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Drought"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Specs"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Sableye",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 125,
+      "ataque": 95,
+      "defensa": 95,
+      "velocidad": 70,
+      "ataqueEspecial": 85,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Encore"
+        },
+        {
+          "nombre": "Disable"
+        },
+        {
+          "nombre": "Gravity"
+        },
+        {
+          "nombre": "Fake Out"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eject Button"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Eternatus",
+    "estrategia": "Soporte y control de campo",
+    "estadistica": {
+      "vida": 215,
+      "ataque": 105,
+      "defensa": 115,
+      "velocidad": 150,
+      "ataqueEspecial": 165,
+      "defensaEspecial": 115
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Sludge Bomb"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Recover"
+        },
+        {
+          "nombre": "Dynamax Cannon"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Pressure"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Veneno",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Annihilape",
+    "estrategia": "sweeper (atacante)",
+    "estadistica": {
+      "vida": 185,
+      "ataque": 135,
+      "defensa": 100,
+      "velocidad": 110,
+      "ataqueEspecial": 70,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Final Gambit"
+        },
+        {
+          "nombre": "Coaching"
+        },
+        {
+          "nombre": "Rage Fist"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Defiant"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Scarf"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Sneasler",
+    "estrategia": "sweeper (atacante)",
+    "estadistica": {
+      "vida": 155,
+      "ataque": 150,
+      "defensa": 80,
+      "velocidad": 140,
+      "ataqueEspecial": 60,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Dire Claw"
+        },
+        {
+          "nombre": "Toxic Spikes"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Unburden"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Electric Seed"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha",
+      "Veneno"
+    ]
+  },
+  {
+    "nombre": "Glimmora",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 158,
+      "ataque": 75,
+      "defensa": 110,
+      "velocidad": 106,
+      "ataqueEspecial": 150,
+      "defensaEspecial": 101
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Mortal Spin"
+        },
+        {
+          "nombre": "Power Gem"
+        },
+        {
+          "nombre": "Spiky Shield"
+        },
+        {
+          "nombre": "Sludge Bomb"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Toxic Debris"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Roca",
+      "Veneno"
+    ]
+  },
+  {
+    "nombre": "Iron Bundle",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 131,
+      "ataque": 100,
+      "defensa": 134,
+      "velocidad": 156,
+      "ataqueEspecial": 144,
+      "defensaEspecial": 80
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Icy Wind"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Freeze-Dry"
+        },
+        {
+          "nombre": "Encore"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Quark Drive"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Hielo",
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Ursaluna-Bloodmoon",
+    "estrategia": "sweeper (atacante)",
+    "estadistica": {
+      "vida": 188,
+      "ataque": 90,
+      "defensa": 140,
+      "velocidad": 72,
+      "ataqueEspecial": 155,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Blood Moon"
+        },
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Hyper Voice"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Mind's Eye"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Normal"
+    ]
+  },
+  {
+    "nombre": "Roaring Moon",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 180,
+      "ataque": 159,
+      "defensa": 91,
+      "velocidad": 139,
+      "ataqueEspecial": 75,
+      "defensaEspecial": 121
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Knock Off"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Acrobatics"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Booster Energy"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Siniestro"
+    ]
+  },
+  {
+    "nombre": "Walking Wake",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 174,
+      "ataque": 103,
+      "defensa": 111,
+      "velocidad": 129,
+      "ataqueEspecial": 145,
+      "defensaEspecial": 103
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Hydro Steam"
+        },
+        {
+          "nombre": "Draco Meteor"
+        },
+        {
+          "nombre": "Snarl"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Pelipper",
+    "estrategia": "Weather & terrain setters",
+    "estadistica": {
+      "vida": 135,
+      "ataque": 70,
+      "defensa": 120,
+      "velocidad": 85,
+      "ataqueEspecial": 115,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Hurricane"
+        },
+        {
+          "nombre": "Weather Ball"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Drizzle"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Iron Jugulis",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 169,
+      "ataque": 100,
+      "defensa": 106,
+      "velocidad": 128,
+      "ataqueEspecial": 142,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Snarl"
+        },
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Hurricane"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Quark Drive"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Booster Energy"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Iron Valiant",
+    "estrategia": "sweeper (atacante)",
+    "estadistica": {
+      "vida": 149,
+      "ataque": 150,
+      "defensa": 110,
+      "velocidad": 136,
+      "ataqueEspecial": 140,
+      "defensaEspecial": 80
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Coaching"
+        },
+        {
+          "nombre": "Spirit Break"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Disable"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Quark Drive"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Booster Energy"
+        }
+      ]
+    },
+    "tipos": [
+      "Hada",
+      "Lucha"
+    ]
+  },
+  {
+    "nombre": "Tatsugiri",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 143,
+      "ataque": 70,
+      "defensa": 80,
+      "velocidad": 102,
+      "ataqueEspecial": 140,
+      "defensaEspecial": 115
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Draco Meteor"
+        },
+        {
+          "nombre": "Muddy Water"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Helping Hand"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Commander"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Dragonite",
+    "estrategia": "Soporte y control de campo",
+    "estadistica": {
+      "vida": 166,
+      "ataque": 139,
+      "defensa": 115,
+      "velocidad": 116,
+      "ataqueEspecial": 120,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Extreme Speed"
+        },
+        {
+          "nombre": "Scale Shot"
+        },
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Outrage"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Inner Focus"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Band"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Iron Treads",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 165,
+      "ataque": 132,
+      "defensa": 140,
+      "velocidad": 138,
+      "ataqueEspecial": 82,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "High Horsepower"
+        },
+        {
+          "nombre": "Knock Off"
+        },
+        {
+          "nombre": "Steel Roller"
+        },
+        {
+          "nombre": "Iron Head"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Quark Drive"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Acero"
+    ]
+  },
+  {
+    "nombre": "Dondozo",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 225,
+      "ataque": 120,
+      "defensa": 148,
+      "velocidad": 55,
+      "ataqueEspecial": 76,
+      "defensaEspecial": 85
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Order Up"
+        },
+        {
+          "nombre": "Earthquake"
+        },
+        {
+          "nombre": "Wave Crash"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Unaware"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Sinistcha",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 146,
+      "ataque": 72,
+      "defensa": 126,
+      "velocidad": 90,
+      "ataqueEspecial": 141,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Rage Powder"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Life Dew"
+        },
+        {
+          "nombre": "Matcha Gotcha"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Hospitality"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Rocky Helmet"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Ogerpon-Wellspring",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 155,
+      "ataque": 140,
+      "defensa": 104,
+      "velocidad": 143,
+      "ataqueEspecial": 72,
+      "defensaEspecial": 116
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Ivy Cudgel"
+        },
+        {
+          "nombre": "Spiky Shield"
+        },
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Horn Leech"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Water Absorb"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": " Wellspring Mask"
+        }
+      ]
+    },
+    "tipos": [
+      "Planta",
+      "Agua"
+    ]
+  },
+  {
+    "nombre": " Giratina-Origin",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 150,
+      "ataque": 120,
+      "defensa": 100,
+      "velocidad": 90,
+      "ataqueEspecial": 120,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Shadow Sneak"
+        },
+        {
+          "nombre": "Poltergeist"
+        },
+        {
+          "nombre": "Breaking Swipe"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Levitate"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Griseous Core"
+        }
+      ]
+    },
+    "tipos": [
+      "Fantasma",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Toxapex",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 50,
+      "ataque": 63,
+      "defensa": 152,
+      "velocidad": 35,
+      "ataqueEspecial": 53,
+      "defensaEspecial": 142
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Baneful Bunker"
+        },
+        {
+          "nombre": "Infestation"
+        },
+        {
+          "nombre": "Toxic"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Regenerator"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Mental Herb"
+        }
+      ]
+    },
+    "tipos": [
+      "Veneno",
+      "Agua"
+    ]
+  },
+  {
+    "nombre": " Lilligant-Hisui",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 70,
+      "ataque": 105,
+      "defensa": 75,
+      "velocidad": 105,
+      "ataqueEspecial": 50,
+      "defensaEspecial": 75
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Sleep Powder"
+        },
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Coaching"
+        },
+        {
+          "nombre": "After You"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Chlorophyll"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba",
+      "Lucha"
+    ]
+  },
+  {
+    "nombre": "Regigigas",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 110,
+      "ataque": 160,
+      "defensa": 110,
+      "velocidad": 100,
+      "ataqueEspecial": 80,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Crush Grip"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Slow Start"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego",
+      "Siniestro"
+    ]
+  },
+  {
+    "nombre": "Rhydon",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 105,
+      "ataque": 130,
+      "defensa": 120,
+      "velocidad": 40,
+      "ataqueEspecial": 45,
+      "defensaEspecial": 45
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Rock Slide"
+        },
+        {
+          "nombre": "High Horsepower"
+        },
+        {
+          "nombre": "Swords Dance"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Lightning Rod"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eviolite"
+        }
+      ]
+    },
+    "tipos": [
+      "Tierra",
+      "Roca"
+    ]
+  },
+  {
+    "nombre": "Lugia",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 106,
+      "ataque": 90,
+      "defensa": 130,
+      "velocidad": 110,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 154
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Aeroblast"
+        },
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Recover"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Multiscale"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Regieleki",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 170,
+      "ataque": 135,
+      "defensa": 121,
+      "velocidad": 80,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Electroweb"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Volt Switch"
+        },
+        {
+          "nombre": "Thunderbolt"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Transistor"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Electrico"
+    ]
+  },
+  {
+    "nombre": "Mienshao",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 65,
+      "ataque": 125,
+      "defensa": 60,
+      "velocidad": 105,
+      "ataqueEspecial": 95,
+      "defensaEspecial": 60
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Close Combat"
+        },
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Feint"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Inner Focus"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Focus Sash"
+        }
+      ]
+    },
+    "tipos": [
+      "Lucha"
+    ]
+  },
+  {
+    "nombre": "Talonflame",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 78,
+      "ataque": 81,
+      "defensa": 71,
+      "velocidad": 126,
+      "ataqueEspecial": 74,
+      "defensaEspecial": 69
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Brave Bird"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Quick Guard"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Gale Wings"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Covert Cloak"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Comfey",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 51,
+      "ataque": 52,
+      "defensa": 90,
+      "velocidad": 100,
+      "ataqueEspecial": 82,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Floral Healing"
+        },
+        {
+          "nombre": "Draining Kiss"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Trick Room"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Triage"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Sitrus Berry"
+        }
+      ]
+    },
+    "tipos": [
+      "Hada"
+    ]
+  },
+  {
+    "nombre": "Reshiram",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 100,
+      "ataque": 120,
+      "defensa": 100,
+      "velocidad": 90,
+      "ataqueEspecial": 150,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Draco Meteor"
+        },
+        {
+          "nombre": "Heat Wave"
+        },
+        {
+          "nombre": "Blue Flare"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Turboblaze"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Life Orb"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Fuego"
+    ]
+  },
+  {
+    "nombre": "Weezing",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 65,
+      "ataque": 90,
+      "defensa": 120,
+      "velocidad": 60,
+      "ataqueEspecial": 85,
+      "defensaEspecial": 70
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Will-O-Wisp"
+        },
+        {
+          "nombre": "Taunt"
+        },
+        {
+          "nombre": "Sludge Bomb"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Neutralizing Gas"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Sitrus Berry"
+        }
+      ]
+    },
+    "tipos": [
+      "Veneno"
+    ]
+  },
+  {
+    "nombre": "Kyurem-White",
+    "estrategia": "Defensores y tanques",
+    "estadistica": {
+      "vida": 125,
+      "ataque": 120,
+      "defensa": 90,
+      "velocidad": 95,
+      "ataqueEspecial": 170,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Blizzard"
+        },
+        {
+          "nombre": "Freeze-Dry"
+        },
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Fusion Flare"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Turboblaze"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Hielo"
+    ]
+  },
+  {
+    "nombre": "Murkrow",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 60,
+      "ataque": 85,
+      "defensa": 42,
+      "velocidad": 91,
+      "ataqueEspecial": 85,
+      "defensaEspecial": 42
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Rain Dance"
+        },
+        {
+          "nombre": "Screech"
+        },
+        {
+          "nombre": "Foul Play"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prankster"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eviolite"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": "Cresselia",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 120,
+      "ataque": 70,
+      "defensa": 110,
+      "velocidad": 85,
+      "ataqueEspecial": 75,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Lunar Blessing"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Psychic"
+        },
+        {
+          "nombre": "Helping Hand"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Levitate"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Safety Goggles"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico"
+    ]
+  },
+  {
+    "nombre": "Suicune",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 100,
+      "ataque": 75,
+      "defensa": 115,
+      "velocidad": 85,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 115
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Scald"
+        },
+        {
+          "nombre": "Snarl"
+        },
+        {
+          "nombre": "Tailwind"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Inner Focus"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua"
+    ]
+  },
+  {
+    "nombre": "Ninetales-Alola",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 73,
+      "ataque": 67,
+      "defensa": 75,
+      "velocidad": 109,
+      "ataqueEspecial": 81,
+      "defensaEspecial": 100
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Aurora Veil"
+        },
+        {
+          "nombre": "Blizzard"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Moonblast"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Snow Warning"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Light Clay"
+        }
+      ]
+    },
+    "tipos": [
+      "Hielo",
+      "Hada"
+    ]
+  },
+  {
+    "nombre": " Gothitelle",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 70,
+      "ataque": 55,
+      "defensa": 95,
+      "velocidad": 65,
+      "ataqueEspecial": 95,
+      "defensaEspecial": 110
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Psychic"
+        },
+        {
+          "nombre": "Trick Room"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Shadow Tag"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Sitrus Berry"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico"
+    ]
+  },
+  {
+    "nombre": "Gouging Fire",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 105,
+      "ataque": 115,
+      "defensa": 121,
+      "velocidad": 91,
+      "ataqueEspecial": 65,
+      "defensaEspecial": 93
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Burning Bulwark"
+        },
+        {
+          "nombre": "Snarl"
+        },
+        {
+          "nombre": "Heat Crash"
+        },
+        {
+          "nombre": "Flare Blitz"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Booster Energy"
+        }
+      ]
+    },
+    "tipos": [
+      "Fuego",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": " Necrozma-Dawn-Wings",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 97,
+      "ataque": 113,
+      "defensa": 109,
+      "velocidad": 77,
+      "ataqueEspecial": 157,
+      "defensaEspecial": 127
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Moongeist Beam"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Meteor Beam"
+        },
+        {
+          "nombre": "Expanding Force"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Prism Armor"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Power Herb"
+        }
+      ]
+    },
+    "tipos": [
+      "Psiquico",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Dialga-Origin",
+    "estrategia": "Soporte y control de campo",
+    "estadistica": {
+      "vida": 100,
+      "ataque": 100,
+      "defensa": 120,
+      "velocidad": 90,
+      "ataqueEspecial": 150,
+      "defensaEspecial": 120
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Flash Cannon"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Trick Room"
+        },
+        {
+          "nombre": "Dragon Pulse"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Telepathy"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Adamant Crystal"
+        }
+      ]
+    },
+    "tipos": [
+      "Acero",
+      "Dragon"
+    ]
+  },
+  {
+    "nombre": "Gastrodon",
+    "estrategia": "Defensores y Tanques",
+    "estadistica": {
+      "vida": 111,
+      "ataque": 83,
+      "defensa": 68,
+      "velocidad": 39,
+      "ataqueEspecial": 92,
+      "defensaEspecial": 82
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Earth Power"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Yawn"
+        },
+        {
+          "nombre": "Recover"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Storm Drain"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": ["Agua", "Tierra"]
+  },
+  {
+    "nombre": "Ogerpon",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 80,
+      "ataque": 120,
+      "defensa": 84,
+      "velocidad": 110,
+      "ataqueEspecial": 60,
+      "defensaEspecial": 96
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Spiky Shield"
+        },
+        {
+          "nombre": "Follow Me"
+        },
+        {
+          "nombre": "Ivy Cudgel"
+        },
+        {
+          "nombre": "Knock Off"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Defiant"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Eject Button"
+        }
+      ]
+    },
+    "tipos": [
+      "Hierba"
+    ]
+  },
+  {
+    "nombre": "Gholdengo",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 87,
+      "ataque": 60,
+      "defensa": 95,
+      "velocidad": 84,
+      "ataqueEspecial": 133,
+      "defensaEspecial": 91
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Make It Rain"
+        },
+        {
+          "nombre": "Shadow Ball"
+        },
+        {
+          "nombre": "Trick"
+        },
+        {
+          "nombre": "Protect"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Good as Gold"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Choice Scarf"
+        }
+      ]
+    },
+    "tipos": [
+      "Acero",
+      "Fantasma"
+    ]
+  },
+  {
+    "nombre": "Araquanid",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 68,
+      "ataque": 70,
+      "defensa": 92,
+      "velocidad": 42,
+      "ataqueEspecial": 50,
+      "defensaEspecial": 132
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Wide Guard"
+        },
+        {
+          "nombre": "Liquidation"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Leech Life"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Water Bubble"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Safety Goggles"
+        }
+      ]
+    },
+    "tipos": [
+      "Agua",
+      "Bicho"
+    ]
+  },
+  {
+    "nombre": "Rayquaza",
+    "estrategia": "Sweepers (Atacantes)",
+    "estadistica": {
+      "vida": 105,
+      "ataque": 150,
+      "defensa": 90,
+      "velocidad": 95,
+      "ataqueEspecial": 150,
+      "defensaEspecial": 90
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Extreme Speed"
+        },
+        {
+          "nombre": "Dragon Ascent"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Swords Dance"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Air Lock"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Clear Amulet"
+        }
+      ]
+    },
+    "tipos": [
+      "Dragon",
+      "Volador"
+    ]
+  },
+  {
+    "nombre": " Scream Tail",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 115,
+      "ataque": 65,
+      "defensa": 99,
+      "velocidad": 111,
+      "ataqueEspecial": 65,
+      "defensaEspecial": 115
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Encore"
+        },
+        {
+          "nombre": "Disable"
+        },
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Dazzling Gleam"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Protosynthesis"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Booster Energy"
+        }
+      ]
+    },
+    "tipos": [
+      "Hada",
+      "Psiquico"
+    ]
+  },
+  {
+    "nombre": " Wo-Chien",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 85,
+      "ataque": 85,
+      "defensa": 100,
+      "velocidad": 70,
+      "ataqueEspecial": 95,
+      "defensaEspecial": 135
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Protect"
+        },
+        {
+          "nombre": "Pollen Puff"
+        },
+        {
+          "nombre": "Leech Seed"
+        },
+        {
+          "nombre": "Foul Play"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Tablets of Ruin"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Leftovers"
+        }
+      ]
+    },
+    "tipos": [
+      "Siniestro",
+      "Hierba"
+    ]
+  },
+  {
+    "nombre": "Raichu",
+    "estrategia": "Soporte y Control de Campo",
+    "estadistica": {
+      "vida": 60,
+      "ataque": 90,
+      "defensa": 55,
+      "velocidad": 110,
+      "ataqueEspecial": 90,
+      "defensaEspecial": 80
+    },
+    "efectos": {
+      "Movimiento": [
+        {
+          "nombre": "Fake Out"
+        },
+        {
+          "nombre": "Nuzzle"
+        },
+        {
+          "nombre": "Endeavor"
+        },
+        {
+          "nombre": "Feint"
+        }
+      ],
+      "Habilidad": [
+        {
+          "nombre": "Lightning Rod"
+        }
+      ],
+      "Objeto": [
+        {
+          "nombre": "Assault Vest"
+        }
+      ]
+    },
+    "tipos": [
+      "Electrico"
+    ]
+  }
+]

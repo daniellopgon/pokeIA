@@ -1,0 +1,3602 @@
+[
+  {
+    "nombre": "Focus Sash",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "vida",
+        "modificador": "aumenta",
+        "valor": 1,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Assault Vest",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensa",
+        "modificador": "incrementa",
+        "valor": 1.50,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "AssaultVestState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Life Orb",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "LifeOrbState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Covert Cloak",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "CovertCloakState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rocky Helmet",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "vida",
+        "modificador": "incrementa",
+        "valor": 0.998333,
+        "objetivo": "enemigo"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Booster Energy",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "null",
+        "modificador": null,
+        "valor": null,
+        "objetivo": "null"
+      },
+      {
+        "estado": "BoosterEnergyState",
+        "objetivo": "miEquipo"
+      }
+    ]
+  },
+  {
+    "nombre": "Leftovers",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "vida",
+        "modificador": "incrementa",
+        "valor": 1.000625,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": "null"
+      }
+    ]
+  },
+  {
+    "nombre": "Choice Specs",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataqueEspecial",
+        "modificador": "incrementa",
+        "valor": 1.50,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "ChoiceSpecsState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Choice Scarf",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "velocidad",
+        "modificador": "incrementa",
+        "valor": 1.50,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "ChoiceScarfState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Electric Seed",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensa",
+        "modificador": "incrementa",
+        "valor": 1.5,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": "null"
+      }
+    ]
+  },
+  {
+    "nombre": "Eviolite",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensa, defensaEspecial",
+        "modificador": "incrementa",
+        "valor": 1.5,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": "null"
+      }
+    ]
+  },
+  {
+    "nombre": "Choice Band",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.5,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "ChoiceBandState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Clear Amulet",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "ClearAmuletState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Cornerstone Mask",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensa,defensaEspecial",
+        "modificador": "incrementa",
+        "valor": "1.5",
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "CornerstoneMaskState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Mental Herb",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "MentalHerbState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Hearthflame Mask",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.50,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "HearthflameMaskState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rusted Shield",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensa",
+        "modificador": "aumenta",
+        "valor": 30,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "RustedShieldState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Mystic Water",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.20,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Wellspring Mask",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "defensaEspecial",
+        "modificador": "incrementa",
+        "valor": 1.50,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "WellspringMaskState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Flame Orb",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "FlameOrbState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wide Lens",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "precision",
+        "modificador": "incrementa",
+        "valor": 1.10,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Black Glasses",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.20,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "BlackGlassesState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rusted Sword",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "aumenta",
+        "valor": 40,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Eject Button",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "EjectButtonState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Light Clay",
+    "tipo": "objeto",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "LightClayState",
+        "objetivo": "miEquipo"
+      }
+    ]
+  },
+  {
+    "nombre": "Storm Drain",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "stormDrainState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Moody",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "moodyState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Prism Armor",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "prismArmorState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Guts",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 0.66,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "gutsState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Tablets of Ruin",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 0.9934,
+        "objetivo": "equipoRival"
+      },
+      {
+        "estado": null,
+        "objetivo": "equipoRival"
+      }
+    ]
+  },
+  {
+    "nombre": "Pressure",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "enemigo"
+      },
+      {
+        "estado": "pressureState",
+        "objetivo": "enemigo"
+      }
+    ]
+  },
+  {
+    "nombre": "Sheer Force",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "SheerForceState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Swift Swim",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "velocidad",
+        "modificador": "incrementa",
+        "valor": 2,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "swiftSwimState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Flame Body",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "enemigo"
+      },
+      {
+        "estado": "flameBodyState",
+        "objetivo": "enemigo"
+      }
+    ]
+  },
+  {
+    "nombre": "Chlorophyll",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "velocidad",
+        "modificador": "incrementa",
+        "valor": 2,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "chlorophyllState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Vessel of Ruin",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataqueEspecial",
+        "modificador": "incrementa",
+        "valor": 0.9934,
+        "objetivo": "equipoRival"
+      },
+      {
+        "estado": null,
+        "objetivo": "equipoRival"
+      }
+    ]
+  },
+  {
+    "nombre": "Snow Warning",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "snowWarningState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "ArmorTail",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "enemigo"
+      },
+      {
+        "estado": "armorTailState",
+        "objetivo": "enemigo"
+      }
+    ]
+  },
+  {
+    "nombre": "Multiscale",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "multiscaleState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Gale Wings",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "prioridad",
+        "modificador": "aumenta",
+        "valor": 1,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "GaleWingsState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Air Lock",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "airLockState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Commander",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 1.5,
+        "objetivo": "miEquipo"
+      },
+      {
+        "estado": "commanderState",
+        "objetivo": "miEquipo"
+      }
+    ]
+  },
+  {
+    "nombre": "Telepathy",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "TelepathyState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Unseen Fist",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "unseenFistState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Neutralizing Gas",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "neutralizingGasState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Friend Guard",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "miEquipo"
+      },
+      {
+        "estado": "friendGuardState",
+        "objetivo": "miEquipo"
+      }
+    ]
+  },
+  {
+    "nombre": "Turboblaze",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "turboblazeState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Levitate",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "levitateState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Drought",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "droughtState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Drizzle",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "drizzleState",
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Regenerator",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "vida",
+        "modificador": "incrementa",
+        "valor": 0.30,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "regeneratorState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Lightning Rod",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": null
+      },
+      {
+        "estado": "lightningRodState",
+        "objetivo": "miEquipo"
+      }
+    ]
+  },
+  {
+    "nombre": "Defiant",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 2,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "defiantState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Intimidate",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "ataque",
+        "modificador": "incrementa",
+        "valor": 0.9867,
+        "objetivo": "equipoRival"
+      },
+      {
+        "estado": null,
+        "objetivo": null
+      }
+    ]
+  },
+  {
+    "nombre": "Inner Focus",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": null,
+        "modificador": null,
+        "valor": null,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "InnerFocusState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Quark Drive",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "quarkDriveState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Prankster",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "prioridad",
+        "modificador": "aumenta",
+        "valor": 1,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "pranksterState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sludge Bomb",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Coaching",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Taunt",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Ivy Cudgel",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Knock Off",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Moonblast",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Encore",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Draco Meteor",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Snarl",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "High Horsepower",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Spiky Shield",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Foul Play",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Earth Power",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Close Combat",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Helping Hand",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wide Guard",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Follow Me",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Tailwind",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Trick Room",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Fake Out",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Leech Seed",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Screech",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Shadow Sneak",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Detect",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Water Spout",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Eruption",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Precipice Blades",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Baneful Bunker",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wood Hammer",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Aqua Jet",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Flare Blitz",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Endeavor",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Body Press",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Earthquake",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wave Crash",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Weather Ball",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Heat Crash",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Flash Cannon",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Power Whip",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Moongeist Beam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Icy Wind",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Brave Bird",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Volt Switch",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dazzling Gleam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Blizzard",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Freeze-Dry",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Spirit Break",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Will-O-Wisp",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dragon Pulse",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Hurricane",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Shadow Ball",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sacred Fire",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Crunch",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Swords Dance",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Light Screen",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Life Dew",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Thunderbolt",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Recover",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rock Slide",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Feint",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Extreme Speed",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Spore",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rain Dance",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Stomping Tantrum",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "U-turn",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Disable",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Heat Wave",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Iron Head",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rage Powder",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Psychic",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sucker Punch",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Blood Moon",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Low Kick",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Reflect",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Parting Shot",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wild Charge",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Aurora Veil",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Thunder",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sandsear Storm",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Surging Strikes",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Flame Charge",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Pollen Puff",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Expanding Force",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Wicked Blow",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sleep Powder",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dire Claw",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Rage Fist",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dragon Ascent",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Stone Edge",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dark Pulse",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Heavy Slam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Facade",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Infestation",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Lunar Blessing",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Muddy Water",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Tera Blast",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sacred Sword",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Outrage",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Calm Mind",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sucker Punch",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Poison Gas",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Steel Roller",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Trick Room",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Make It Rain",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Draco Meteor",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Drain Punch",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Electroweb",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Ice Beam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Burning Bulwark",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Glacial Lance",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Fiery Dance",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Bleakwind Storm",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Horn Leech",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Poltergeist",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Icicle Crash",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Scald",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Trick",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Tera Starstorm",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Nuzzle",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Last Respects",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Hyper Voice",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Gravity",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Kowtow Cleave",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Acrobatics",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Electro Drift",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Liquidation",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Yawn",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Matcha Gotcha",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Fusion Flare",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Final Gambit",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Power Gem",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Origin Pulse",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Decorate",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Toxic",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Pollen Puf",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Draining Kiss",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Toxic Spikes",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Blue Flare",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Dynamax Cannon",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Thunderclap",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Horn Leech",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Crush Grip",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Strange Steam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Scale Shot",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Aeroblast",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Floral Healing",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Ruination",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Mortal Spin",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Instruct",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Hydro Steam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Thunder Wave",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Quiver Dance",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Grassy Glide",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Counter",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Seed Bomb",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Sand Tomb",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Breaking Swipe",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Eerie Impulse",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Overheat",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Leech Life",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Order Up",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Play Rough",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "After You",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Headlong Rush",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Electro Shot",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Transform",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Quick Guard",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  },
+  {
+    "nombre": "Meteor Beam",
+    "tipo": "habilidad",
+    "efectos": [
+      {
+        "estadistica": "statMasAlta",
+        "modificador": "incrementa",
+        "valor": 1.3,
+        "objetivo": "usuario"
+      },
+      {
+        "estado": "protoSynthesisState",
+        "objetivo": "usuario"
+      }
+    ]
+  }
+]
